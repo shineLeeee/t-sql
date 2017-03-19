@@ -1,0 +1,14 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table nci_rdf_data
+(id number,
+triple sdo_rdf_triple_s);
+execute sem_apis.create_sem_model(‘nci’, ‘nci_rdf_data’, ‘triple’);]]></sql>
+		<connection><![CDATA[onttest]]></connection>
+		<timestamp><![CDATA[15-10-30 下午1:18]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.156]]></execTime>
+	</historyItem>
+</history>

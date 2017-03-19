@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/lishuai/AppData/Roaming/SQL Developer/12.23大规模轨迹提取实验.sql]]></sql>
+		<connection><![CDATA[管理员登录]]></connection>
+		<timestamp><![CDATA[15-12-23 下午10:59]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[6]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

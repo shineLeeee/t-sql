@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select "latitude","longitude" from "town" where "name"='城关镇' and rownum<2 order by "latitude" asc;]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-4-21 下午10:05]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.002]]></execTime>
+	</historyItem>
+</history>

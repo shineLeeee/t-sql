@@ -1,0 +1,1 @@
+select min("T_UTCTime") from "whole_month";

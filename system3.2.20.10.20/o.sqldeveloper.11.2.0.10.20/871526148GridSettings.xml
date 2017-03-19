@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">T_TARGETID</Item>
+      <Item class="java.lang.String">T_START_TIME</Item>
+      <Item class="java.lang.String">T_START_LONGTI</Item>
+      <Item class="java.lang.String">T_START_LATI</Item>
+      <Item class="java.lang.String">T_END_TIME</Item>
+      <Item class="java.lang.String">T_END_LONGTI</Item>
+      <Item class="java.lang.String">T_END_LATI</Item>
+      <Item class="java.lang.String">START_CORDINATE</Item>
+      <Item class="java.lang.String">END_CORDINATE</Item>
+      <Item class="java.lang.String">OBJECTID</Item>
+      <Item class="java.lang.String">TOURISM</Item>
+      <Item class="java.lang.String">OSMID</Item>
+      <Item class="java.lang.String">NAME</Item>
+      <Item class="java.lang.String">SHAPE_LENG</Item>
+      <Item class="java.lang.String">SHAPE_AREA</Item>
+      <Item class="java.lang.String">GEOMETRY</Item>
+      <Item class="java.lang.String">OBJECTID_1</Item>
+      <Item class="java.lang.String">TOURISM_1</Item>
+      <Item class="java.lang.String">OSMID_1</Item>
+      <Item class="java.lang.String">NAME_1</Item>
+      <Item class="java.lang.String">SHAPE_LENG_1</Item>
+      <Item class="java.lang.String">SHAPE_AREA_1</Item>
+      <Item class="java.lang.String">GEOMETRY_1</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>87</Item>
+      <Item>99</Item>
+      <Item>111</Item>
+      <Item>99</Item>
+      <Item>87</Item>
+      <Item>99</Item>
+      <Item>87</Item>
+      <Item>145</Item>
+      <Item>145</Item>
+      <Item>75</Item>
+      <Item>75</Item>
+      <Item>61</Item>
+      <Item>51</Item>
+      <Item>117</Item>
+      <Item>145</Item>
+      <Item>145</Item>
+      <Item>87</Item>
+      <Item>81</Item>
+      <Item>69</Item>
+      <Item>77</Item>
+      <Item>117</Item>
+      <Item>138</Item>
+      <Item>145</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23conn_orclSELECT *
+   FROM (SELECT *
+  FROM JAN_TRAJECTORY l,ATTRACTIONS a
+ WHERE a.name='黄鹤楼'
+   AND sdo_within_distance (
+         l.END_CORDINATE, a.GEOMETRY,'distance=2000 unit=metre') 
+       = 'TRUE') l,ATTRACTIONS a
+  WHERE a.name='湖北省博物馆'
+   AND sdo_within_distance (
+         l.START_CORDINATE, a.GEOMETRY,'distance=1000 unit=metre') 
+       = 'TRUE'
+       and T_START_TIME > '1388538000' and T_end_time &lt; '1388648200'
+ORDER BY "T_START_TIME"</uniqueName>
+</TableSettings>

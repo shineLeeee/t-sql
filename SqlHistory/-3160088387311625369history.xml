@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table T_TJ as (select distinct YXB  from T_ORDER group by YXB);]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-6-24 下午11:24]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[1.581]]></execTime>
+	</historyItem>
+</history>

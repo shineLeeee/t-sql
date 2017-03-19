@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select count(*),startarea,endarea,sttime,edtime from 行为模式挖掘
+group by startarea,sttime,endarea,edtime
+order by count(*) desc;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-17 下午9:41]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.041]]></execTime>
+	</historyItem>
+</history>

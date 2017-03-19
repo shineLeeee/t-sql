@@ -1,0 +1,1 @@
+insert into whole_month_inorder(carid,longitude,latitude,status,speed,cartime) select "T_TargetID","T_Longitude","T_Latitude","T_Status","T_Speed","T_UTCTime" from "whole_month" order by "T_TargetID","T_UTCTime" asc

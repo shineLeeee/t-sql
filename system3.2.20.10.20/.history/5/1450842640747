@@ -1,0 +1,1 @@
+alter tablespace RDF_USERS add datafile 'G:\spacess01.DBF' size 500M autoextend on maxsize 3072M; 

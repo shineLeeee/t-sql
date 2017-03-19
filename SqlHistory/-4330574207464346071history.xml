@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[SELECT COUNT(*) FROM t_brand]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-7-11 下午9:58]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.026]]></execTime>
+	</historyItem>
+</history>

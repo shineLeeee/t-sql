@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select name from attractions order by name;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-17 下午9:15]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.014]]></execTime>
+	</historyItem>
+</history>

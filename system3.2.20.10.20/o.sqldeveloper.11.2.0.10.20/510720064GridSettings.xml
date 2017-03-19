@@ -1,0 +1,212 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">F_OID</Item>
+      <Item class="java.lang.String">F_DATAID</Item>
+      <Item class="java.lang.String">F_DATASIZE</Item>
+      <Item class="java.lang.String">F_DATAUNIT</Item>
+      <Item class="java.lang.String">F_PRODUCTQUALITY</Item>
+      <Item class="java.lang.String">F_EARTHELLIPSOID</Item>
+      <Item class="java.lang.String">F_SCENECENTERLAT</Item>
+      <Item class="java.lang.String">F_SCENECENTERLONG</Item>
+      <Item class="java.lang.String">F_DATALOWERLEFTLAT</Item>
+      <Item class="java.lang.String">F_DATALOWERLEFTLONG</Item>
+      <Item class="java.lang.String">F_DATALOWERRIGHTLAT</Item>
+      <Item class="java.lang.String">F_DATALOWERRIGHTLONG</Item>
+      <Item class="java.lang.String">F_DATAUPPERLEFTLAT</Item>
+      <Item class="java.lang.String">F_DATAUPPERLEFTLONG</Item>
+      <Item class="java.lang.String">F_DATAUPPERRIGHTLAT</Item>
+      <Item class="java.lang.String">F_DATAUPPERRIGHTLONG</Item>
+      <Item class="java.lang.String">F_MAPPROJECTION</Item>
+      <Item class="java.lang.String">F_RECEIVESTATIONID</Item>
+      <Item class="java.lang.String">F_SATPATH</Item>
+      <Item class="java.lang.String">F_SATROW</Item>
+      <Item class="java.lang.String">F_ROLLSATELLITEANGLE</Item>
+      <Item class="java.lang.String">F_PRODUCTDATE</Item>
+      <Item class="java.lang.String">F_PRODUCTLEVEL</Item>
+      <Item class="java.lang.String">F_SCENEID</Item>
+      <Item class="java.lang.String">F_CATALOGID</Item>
+      <Item class="java.lang.String">F_TAPENUMBER</Item>
+      <Item class="java.lang.String">F_OFFLINESTATUS</Item>
+      <Item class="java.lang.String">F_NEARLINESTATUS</Item>
+      <Item class="java.lang.String">F_ONLINESTATUS</Item>
+      <Item class="java.lang.String">F_CLOUDCOVERQUADRANT3</Item>
+      <Item class="java.lang.String">F_ORBITTYPE</Item>
+      <Item class="java.lang.String">F_STRIPID</Item>
+      <Item class="java.lang.String">F_RECEIVETIME</Item>
+      <Item class="java.lang.String">F_REGIONNAME</Item>
+      <Item class="java.lang.String">F_SCENECOUNT</Item>
+      <Item class="java.lang.String">F_SCENESHIFT</Item>
+      <Item class="java.lang.String">F_SCENESTARTLINE</Item>
+      <Item class="java.lang.String">F_PIXELBYTE</Item>
+      <Item class="java.lang.String">F_SOLARAZIMUTH</Item>
+      <Item class="java.lang.String">F_SOLARZENITH</Item>
+      <Item class="java.lang.String">F_SATSWINGANGLE</Item>
+      <Item class="java.lang.String">F_PITCHSATELLITEANGLE</Item>
+      <Item class="java.lang.String">F_INTEGRATIONTIME</Item>
+      <Item class="java.lang.String">F_ZONENO</Item>
+      <Item class="java.lang.String">F_RESAMPLINGKERNEL</Item>
+      <Item class="java.lang.String">F_RESAMPLENUM</Item>
+      <Item class="java.lang.String">F_USEDGCPNO</Item>
+      <Item class="java.lang.String">F_IMAGEGSD</Item>
+      <Item class="java.lang.String">F_WIDTHINPIXELS</Item>
+      <Item class="java.lang.String">F_HEIGHTINPIXELS</Item>
+      <Item class="java.lang.String">F_WIDTHINMETERS</Item>
+      <Item class="java.lang.String">F_HEIGHTINMETERS</Item>
+      <Item class="java.lang.String">F_TIMETYPE</Item>
+      <Item class="java.lang.String">F_STARTTIME</Item>
+      <Item class="java.lang.String">F_CENTERTIME</Item>
+      <Item class="java.lang.String">F_INTERVAL</Item>
+      <Item class="java.lang.String">F_GEOMETRICCHECKLEVEL</Item>
+      <Item class="java.lang.String">F_GEOMETRICCHECKTIME</Item>
+      <Item class="java.lang.String">F_GEOMETRICCHECKUNIT</Item>
+      <Item class="java.lang.String">F_GEOMETRICLINEPRECISION</Item>
+      <Item class="java.lang.String">F_GEOMETRICSAMPLEPRECISION</Item>
+      <Item class="java.lang.String">F_GEOMETRICCHECKBASETYPE</Item>
+      <Item class="java.lang.String">F_GEOMETRICCHECKPOINTNUM</Item>
+      <Item class="java.lang.String">F_RADIOMETRICCHECKLEVEL</Item>
+      <Item class="java.lang.String">F_RADIOMETRICCHECKMODEL</Item>
+      <Item class="java.lang.String">F_PRODUCTIONUNIT</Item>
+      <Item class="java.lang.String">F_CONTROLPOINTSOURCE</Item>
+      <Item class="java.lang.String">F_RADIOMETRICCHECKUNIT</Item>
+      <Item class="java.lang.String">F_RADIOMETRICNOCCDRADIOMETRICP</Item>
+      <Item class="java.lang.String">F_RADIOMETRICNOTAPMISTAKE</Item>
+      <Item class="java.lang.String">F_RADIOMETRICNOMESSYCODE</Item>
+      <Item class="java.lang.String">F_RADIOMETRICNOIMAGENOISE</Item>
+      <Item class="java.lang.String">F_RADIOMETRICNOOTHERS</Item>
+      <Item class="java.lang.String">F_RADIOMETRICCHECKTIME</Item>
+      <Item class="java.lang.String">F_SCENEMODE</Item>
+      <Item class="java.lang.String">F_YAWSATELLITEANGLE</Item>
+      <Item class="java.lang.String">F_CLOUDCOVERQUADRANT1</Item>
+      <Item class="java.lang.String">F_CLOUDCOVERQUADRANT4</Item>
+      <Item class="java.lang.String">F_CLOUDCOVERQUADRANT2</Item>
+      <Item class="java.lang.String">F_PRODUCETYPE</Item>
+      <Item class="java.lang.String">F_PRODUCTID</Item>
+      <Item class="java.lang.String">F_IMAGINGMEDIUMTIME</Item>
+      <Item class="java.lang.String">F_IMAGINGSTARTTIME</Item>
+      <Item class="java.lang.String">F_IMAGINGSTOPTIME</Item>
+      <Item class="java.lang.String">F_SATELLITEID</Item>
+      <Item class="java.lang.String">F_ORBITID</Item>
+      <Item class="java.lang.String">F_SENSORID</Item>
+      <Item class="java.lang.String">F_SCENEPATH</Item>
+      <Item class="java.lang.String">F_SCENEROW</Item>
+      <Item class="java.lang.String">F_SCENEDATE</Item>
+      <Item class="java.lang.String">F_OVERALLDATAQUALITY</Item>
+      <Item class="java.lang.String">F_RADIOMETRICCHECK</Item>
+      <Item class="java.lang.String">F_GEOMETRICCHECK</Item>
+      <Item class="java.lang.String">F_ENDTIME</Item>
+      <Item class="java.lang.String">F_SCENESTOPLINE</Item>
+      <Item class="java.lang.String">SHAPE</Item>
+      <Item class="java.lang.String">SE_ANNO_CAD_DATA</Item>
+      <Item class="java.lang.String">F_LINEIMAGEGSD</Item>
+      <Item class="java.lang.String">F_SAMPLEIMAGEGSD</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>0</Item>
+      <Item>0</Item>
+      <Item>57</Item>
+      <Item>75</Item>
+      <Item>87</Item>
+      <Item>43</Item>
+      <Item>51</Item>
+      <Item>52</Item>
+      <Item>123</Item>
+      <Item>129</Item>
+      <Item>135</Item>
+      <Item>141</Item>
+      <Item>141</Item>
+      <Item>147</Item>
+      <Item>135</Item>
+      <Item>141</Item>
+      <Item>141</Item>
+      <Item>147</Item>
+      <Item>117</Item>
+      <Item>135</Item>
+      <Item>81</Item>
+      <Item>75</Item>
+      <Item>147</Item>
+      <Item>105</Item>
+      <Item>111</Item>
+      <Item>81</Item>
+      <Item>93</Item>
+      <Item>99</Item>
+      <Item>117</Item>
+      <Item>123</Item>
+      <Item>111</Item>
+      <Item>153</Item>
+      <Item>93</Item>
+      <Item>81</Item>
+      <Item>105</Item>
+      <Item>99</Item>
+      <Item>99</Item>
+      <Item>99</Item>
+      <Item>123</Item>
+      <Item>93</Item>
+      <Item>111</Item>
+      <Item>105</Item>
+      <Item>117</Item>
+      <Item>153</Item>
+      <Item>129</Item>
+      <Item>75</Item>
+      <Item>135</Item>
+      <Item>105</Item>
+      <Item>93</Item>
+      <Item>87</Item>
+      <Item>117</Item>
+      <Item>123</Item>
+      <Item>117</Item>
+      <Item>123</Item>
+      <Item>87</Item>
+      <Item>93</Item>
+      <Item>99</Item>
+      <Item>87</Item>
+      <Item>153</Item>
+      <Item>147</Item>
+      <Item>147</Item>
+      <Item>171</Item>
+      <Item>183</Item>
+      <Item>171</Item>
+      <Item>171</Item>
+      <Item>165</Item>
+      <Item>165</Item>
+      <Item>123</Item>
+      <Item>147</Item>
+      <Item>159</Item>
+      <Item>207</Item>
+      <Item>177</Item>
+      <Item>171</Item>
+      <Item>177</Item>
+      <Item>153</Item>
+      <Item>159</Item>
+      <Item>93</Item>
+      <Item>141</Item>
+      <Item>153</Item>
+      <Item>153</Item>
+      <Item>153</Item>
+      <Item>105</Item>
+      <Item>93</Item>
+      <Item>141</Item>
+      <Item>135</Item>
+      <Item>129</Item>
+      <Item>105</Item>
+      <Item>81</Item>
+      <Item>87</Item>
+      <Item>93</Item>
+      <Item>87</Item>
+      <Item>93</Item>
+      <Item>147</Item>
+      <Item>135</Item>
+      <Item>123</Item>
+      <Item>81</Item>
+      <Item>117</Item>
+      <Item>380</Item>
+      <Item>103</Item>
+      <Item>111</Item>
+      <Item>123</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23testSELECT * FROM "SCOTT"."TBCMS_RESMETA_10494"</uniqueName>
+</TableSettings>

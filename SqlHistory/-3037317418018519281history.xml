@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select *  from
+(select count(*) from whole_month_inorder where rownum<10000)
+where 'carid'='MMC8000GPSANDASYN051113-22305-00000000';]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-23 下午1:18]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.113]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">TABLESPACE_NAME</Item>
+      <Item class="java.lang.String">MB</Item>
+      <Item class="java.lang.String">MB_1</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>117</Item>
+      <Item>102</Item>
+      <Item>89</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95select tablespace_name, sum(bytes) / 1024 / 1024 as MB，sum(MAXBYTES) / 1024 / 1024 as MB
+　　from dba_data_files
+　　group by tablespace_name</uniqueName>
+</TableSettings>

@@ -1,0 +1,22 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[SELECT count(*)
+   FROM (SELECT *
+  FROM JAN_TRAJECTORY l,ATTRACTIONS a
+ WHERE a.OSMUSER='黄鹤楼'
+   AND sdo_within_distance (
+         l.END_CORDINATE, a.GEOMETRY,'distance=3000 unit=metre') 
+       = 'TRUE') l,ATTRACTIONS a
+  WHERE a.OSMUSER='湖北省博物馆'
+   AND sdo_within_distance (
+         l.START_CORDINATE, a.GEOMETRY,'distance=1000 unit=metre') 
+       = 'TRUE'
+ORDER BY T_START_TIME;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-28 下午12:27]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[1.559]]></execTime>
+	</historyItem>
+</history>

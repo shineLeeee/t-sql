@@ -1,0 +1,2 @@
+create INDEX mylake_idx on MYLAKE(shape)
+INDEXTYPE IS MDSYS.SPATIAL_INDEX

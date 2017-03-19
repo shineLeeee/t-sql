@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select distinct org_name,t2.CITY_NAME  from V_S_SD_CO t1 left join V_D_ORGAN_STRU t2 on  t1.pub_org_id_dept=to_number(t2.id)]]></sql>
+		<connection><![CDATA[realdata]]></connection>
+		<timestamp><![CDATA[16-6-25 下午12:00]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[4.117]]></execTime>
+	</historyItem>
+</history>

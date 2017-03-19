@@ -1,0 +1,1 @@
+select carid,cartime,longitude,latitude,status from WHOLE_MONTH_INORDER where carid=16801 order by cartime asc;

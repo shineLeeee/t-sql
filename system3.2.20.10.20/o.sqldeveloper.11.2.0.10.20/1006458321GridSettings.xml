@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">YXB</Item>
+      <Item class="java.lang.String">XQSLHJ</Item>
+      <Item class="java.lang.String">SLHJ</Item>
+      <Item class="java.lang.String">YSJEHJ</Item>
+      <Item class="java.lang.String">COUNTS</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>0</Item>
+      <Item>0</Item>
+      <Item>127</Item>
+      <Item>71</Item>
+      <Item>67</Item>
+      <Item>102</Item>
+      <Item>90</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23testSELECT * FROM "SCOTT"."T_TJ"</uniqueName>
+</TableSettings>

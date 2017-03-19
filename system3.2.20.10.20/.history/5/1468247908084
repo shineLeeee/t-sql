@@ -1,0 +1,16 @@
+create table fre_nalysis as (
+select PRODUCT_ID,RETAILER_ID_CUST,YMD from EXPORDERLINE
+);
+
+
+select count(*) from fre_nalysis;
+/* 747个香烟品牌  33734个零售户 211天的 99999条数据 */
+
+select count(*) from fre_nalysis group by retailer_id_cust;
+
+/*发现一个零售户只有几条编码，根本没法分析，换个思路，按照行政区划来做，重新建表*/
+
+
+
+
+

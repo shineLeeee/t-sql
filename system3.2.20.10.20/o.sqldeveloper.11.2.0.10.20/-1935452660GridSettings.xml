@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">STARTAREA</Item>
+      <Item class="java.lang.String">STTIME</Item>
+      <Item class="java.lang.String">ENDAREA</Item>
+      <Item class="java.lang.String">EDTIME</Item>
+      <Item class="java.lang.String">STUNIXTIME</Item>
+      <Item class="java.lang.String">EDUNIXTIME</Item>
+      <Item class="java.lang.String">ST</Item>
+      <Item class="java.lang.String">ED</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>0</Item>
+      <Item>0</Item>
+      <Item>75</Item>
+      <Item>75</Item>
+      <Item>75</Item>
+      <Item>97</Item>
+      <Item>91</Item>
+      <Item>105</Item>
+      <Item>75</Item>
+      <Item>75</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item class="java.lang.String">9 asc</Item>
+      <Item class="java.lang.String">4 asc</Item>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23conn_orclSELECT * FROM "C##NCIUSER"."行为模式挖掘"</uniqueName>
+</TableSettings>

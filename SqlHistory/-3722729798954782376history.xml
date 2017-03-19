@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select count(*) from atest where ymd_start_time between to_date('2014-01-21,00:00:40','yyyy-mm-dd hh24:mi:ss')  and to_date('2014-01-21, 23:59:59','yyyy-mm-dd hh24:mi:ss');]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-25 下午2:25]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.05]]></execTime>
+	</historyItem>
+</history>

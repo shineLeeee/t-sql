@@ -1,0 +1,297 @@
+<LayoutInfo>
+   <clientLayoutData>
+      <global>
+         <view-data filter81.options="0" filter16.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter49.key="数据库连接orcl目录 SYS.null@orcl" filter92.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter66.options="0" filter14.key="数据库连接realdata同义词 DATAUSER.null@realdata" filter84.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter98.options="0" filter9.key="数据库连接test队列表 SCOTT.null@test" filter25.options="0" filter19.options="0" filter40.options="0" filter31.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter57.options="0" filter76.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter105.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter50.key="数据库连接orclApex SYS.null@orcl" filter90.options="0" filter68.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter93.key="数据库连接realdataEDITION_TRIGGER DATAUSER.null@realdata" filter23.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter72.options="0" filter9.options="0" filter34.key="数据库连接test回收站 SCOTT.null@test" filter85.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter77.key="数据库连接test目录 SCOTT.null@test" filter40.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter43.options="0" filter17.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter18.key="数据库连接testEDITION_VIEW SCOTT.null@test" filter28.options="0" filter81.key="数据库连接orcl队列 SYS.null@orcl" filter5.key="数据库连接realdata类型 DATAUSER.null@realdata" filter91.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter22.key="数据库连接test" filter104.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter75.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter30.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter31.options="0" filter24.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter0.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter69.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter101.key="数据库连接orcl数据库链接 SYS.null@orcl" filter16.options="0" filter95.options="0" filter105.options="0" filter65.key="数据库连接orclPUBLIC DATABASE LINK SYS.null@orcl" filter90.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter20.options="0" filter88.key="数据库连接test实体化视图 SCOTT.null@test" filter86.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter14.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter1.options="0" filter45.key="数据库连接test过程 SCOTT.null@test" filter62.key="数据库连接" filter78.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter52.options="0" filter108.key="数据库连接realdata表 DATAUSER.null@realdata表 DATAUSER.T_ORDER@realdata" filter18.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter25.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter86.options="0" filter1.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter93.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter97.key="数据库连接test表 SCOTT.null@test表 SCOTT.country@test" filter11.options="0" filter37.key="数据库连接realdata实体化视图 DATAUSER.null@realdata" filter102.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter69.options="0" filter107.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter39.options="0" filter54.key="数据库连接realdata队列 DATAUSER.null@realdata" filter15.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter11.key="数据库连接realdata数据库链接 DATAUSER.null@realdata" filter69.key="数据库连接test其他用户" filter83.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter32.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter104.key="数据库连接realdata触发器 DATAUSER.null@realdata" filter58.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter61.options="0" filter89.options="0" filter102.options="0" filter90.key="数据库连接realdata函数 DATAUSER.null@realdata" filter2.key="数据库连接realdata视图 DATAUSER.null@realdata视图 DATAUSER.V_D_ORGAN_STRU@realdata" filter30.key="数据库连接orclEDITION_TRIGGER SYS.null@orcl" filter73.key="数据库连接realdata表 DATAUSER.null@realdata" filter48.options="0" filter77.options="0" filter22.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter26.key="数据库连接testJava SCOTT.null@test" filter58.key="数据库连接orcl实体化视图日志 SYS.null@orcl" filter0.options="0" filter15.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_TJ@test" filter102.key="数据库连接testXDB_SUBFOLDER SCOTT.null@test" filter108.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter3.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter31.key="数据库连接test类型 SCOTT.null@test" filter83.options="0" filter92.key="数据库连接realdata视图 DATAUSER.null@realdata视图 DATAUSER.V_S_SD_CO@realdata" filter65.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter57.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter41.key="数据库连接orcl函数 SYS.null@orcl" filter80.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter84.key="数据库连接orcl类型 SYS.null@orcl" filter50.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter10.options="0" filter28.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter74.options="0" filter21.key="数据库连接orcl" filter49.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter107.options="0" filter72.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter64.key="数据库连接orcl序列 SYS.null@orcl" filter18.options="0" filter43.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter49.options="0" filter35.key="数据库连接test表 SCOTT.null@test" filter56.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter11.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter6.key="数据库连接realdata过程 DATAUSER.null@realdata" filter78.key="数据库连接test序列 SCOTT.null@test" filter64.options="0" filter10.key="数据库连接testApex SCOTT.null@test" filter37.options="0" filter67.options="0" filter107.key="数据库连接test调度程序" filter29.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter53.key="数据库连接realdataPUBLIC_SYNONYM DATAUSER.null@realdata" filter96.key="数据库连接test触发器 SCOTT.null@test" filter50.options="0" filter71.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter22.options="0" filter70.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_MACRODATA@test" filter36.key="数据库连接realdata目录 DATAUSER.null@realdata" filter37.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter103.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter29.key="数据库连接test索引 SCOTT.null@test" filter97.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter79.key="数据库连接test表 SCOTT.null@test表 SCOTT.EXPORDER@test" filter46.key="数据库连接orclXDB_SUBFOLDER SYS.null@orcl" filter44.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter89.key="数据库连接orcl表 SYS.null@orcl表 SYS.CLUSTERPRE@orcl" filter71.options="0" filter19.key="数据库连接orcl触发器 SYS.null@orcl" filter36.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter20.key="数据库连接realdata" filter80.key="数据库连接orcl同义词 SYS.null@orcl" filter3.options="0" filter10.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter63.key="数据库连接realdataEDITION_VIEW DATAUSER.null@realdata" filter109.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter13.options="0" filter104.options="0" filter42.key="数据库连接orcl索引 SYS.null@orcl" filter1.key="数据库连接orcl其他用户" filter85.key="数据库连接realdata序列 DATAUSER.null@realdata" filter25.key="数据库连接orclJava SYS.null@orcl" filter2.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter6.options="0" filter51.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter68.key="数据库连接test表 SCOTT.null@test表 SCOTT.EXPORDERLINE@test" filter64.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter77.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter92.options="0" filter58.options="0" filter79.options="0" filter8.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter57.key="数据库连接realdata回收站 DATAUSER.null@realdata" filter34.options="0" filter74.key="数据库连接orclEDITION_VIEW SYS.null@orcl" filter46.options="0" filter80.options="0" filter91.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_BRAND@test" filter83.key="数据库连接orclPUBLIC_SYNONYM SYS.null@orcl" filter40.key="数据库连接orcl调度程序" filter99.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter32.key="数据库连接test表 SCOTT.null@test表 SCOTT.FRE_ANALYSIS@test" filter7.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter46.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter53.options="0" filter75.key="数据库连接test数据库链接 SCOTT.null@test" filter21.options="0" filter7.key="数据库连接realdata程序包 DATAUSER.null@realdata" filter16.key="数据库连接orcl程序包 SYS.null@orcl" filter61.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter103.key="数据库连接realdata索引 DATAUSER.null@realdata" filter39.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter85.options="0" filter109.options="0" filter0.key="数据库连接realdata其他用户" filter59.key="数据库连接orclEDITION_SUBFOLDER SYS.null@orcl" filter2.options="0" filter67.key="数据库连接orcl表 SYS.null@orcl" ID="DatabaseNavigatorWindow.DatabaseNavigatorName" filter38.options="0" filter24.key="数据库连接orcl队列表 SYS.null@orcl" filter53.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter98.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter47.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter6.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter47.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_SALE@test" filter88.options="0" filter76.options="0" filter12.options="0" filter91.options="0" filter101.options="0" filter5.options="0" filter62.filterCls="oracle.dbtools.raptor.navigator.folders.DatabasesFilter" filter95.key="数据库连接realdata调度程序" filter62.options="0" filter47.options="0" filter52.key="数据库连接testPUBLIC DATABASE LINK SCOTT.null@test" filter28.key="数据库连接test程序包 SCOTT.null@test" filter48.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter97.options="0" filter65.options="0" filter82.options="0" filter60.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter35.options="0" filter52.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter71.key="数据库连接test队列 SCOTT.null@test" filter9.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter89.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter56.options="0" filter106.key="数据库连接testPUBLIC_SYNONYM SCOTT.null@test" filter63.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter55.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter4.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_RETAIL@test" filter24.options="0" filter41.options="0" filter44.options="0" filter73.options="0" filter70.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter99.key="数据库连接testEDITION_TRIGGER SCOTT.null@test" filter86.key="数据库连接realdataXDB_SUBFOLDER DATAUSER.null@realdata" filter96.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter27.options="0" filter38.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter45.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter="110" filter32.options="0" filter60.key="数据库连接test函数 SCOTT.null@test" filter106.options="0" filter13.key="数据库连接test表 SCOTT.null@test表 SCOTT.town@test" filter43.key="数据库连接orclXML 方案 SYS.null@orcl" filter56.key="数据库连接orcl实体化视图 SYS.null@orcl" filter94.options="0" filter8.options="0" filter15.options="0" filter39.key="数据库连接orcl视图 SYS.null@orcl" filter35.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter51.options="0" filter20.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter36.options="0" filter96.options="0" filter73.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter68.options="0" filter66.key="数据库连接realdata表 DATAUSER.null@realdata表 DATAUSER.T_CLUSTER@realdata" filter12.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter23.key="数据库连接realdata实体化视图日志 DATAUSER.null@realdata" filter70.options="0" filter76.key="数据库连接realdataXML 方案 DATAUSER.null@realdata" filter95.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter33.key="数据库连接realdataEDITION_SUBFOLDER DATAUSER.null@realdata" filter100.options="0" filter4.options="0" filter23.options="0" filter87.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter87.options="0" filter4.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter8.key="数据库连接realdata表 DATAUSER.null@realdata表 DATAUSER.LS_CLUSTER@realdata" filter42.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter34.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter94.key="数据库" filter17.key="数据库连接realdata视图 DATAUSER.null@realdata视图 DATAUSER.V_D_RETAILER@realdata" filter45.options="0" filter59.options="0" filter79.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter100.key="数据库连接orcl过程 SYS.null@orcl" filter103.options="0" filter7.options="0" filter21.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter14.options="0" filter66.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter60.options="0" filter51.key="数据库连接orcl回收站 SYS.null@orcl" filter93.options="0" filter94.filterCls="oracle.dbtools.raptor.navigator.ConnectionStoresFilter" filter33.options="0" filter81.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter82.key="数据库连接test同义词 SCOTT.null@test" filter59.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter27.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter48.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_HOLDER@test" filter88.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter101.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter78.options="0" filter109.key="数据库连接realdata队列表 DATAUSER.null@realdata" filter67.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter5.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter3.key="数据库连接test实体化视图日志 SCOTT.null@test" filter33.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter99.options="0" filter84.options="0" filter27.key="数据库连接test表 SCOTT.null@test表 SCOTT.FRE_NALYSIS@test" filter108.options="0" filter26.options="0" filter26.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter54.options="0" filter74.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter82.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter100.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter29.options="0" filter72.key="数据库连接realdataPUBLIC DATABASE LINK DATAUSER.null@realdata" filter42.options="0" filter30.options="0" filter98.key="数据库连接test表 SCOTT.null@test表 SCOTT.T_ORDER@test" filter13.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter55.key="数据库连接test表 SCOTT.null@test表 SCOTT.TBCMS_RESMETA_10494@test" filter38.key="数据库连接realdata视图 DATAUSER.null@realdata" filter12.key="数据库连接realdata表 DATAUSER.null@realdata表 DATAUSER.clustered@realdata" filter75.options="0" filter63.options="0" filter19.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter87.key="数据库连接testEDITION_SUBFOLDER SCOTT.null@test" filter44.key="数据库连接test视图 SCOTT.null@test" filter17.options="0" filter41.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter105.key="数据库连接realdataJava DATAUSER.null@realdata" filter106.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter54.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter61.key="数据库连接testXML 方案 SCOTT.null@test"/>
+         <view-data ReportsDummy="true" ID="ReportNavigatorWindow.Reports"/>
+         <view-data ClosedByUser="false" ID="LogWindow.日志"/>
+      </global>
+      <Editing layout-name="Editing">
+         <view-data pageSelection="" ID="PALETTEFACTORY.PALETTE"/>
+      </Editing>
+   </clientLayoutData>
+   <knownDockableFactories>
+      <Systemoracle_ideimpl_editor_RecentFiles_VIEW_TYPE/>
+      <Applicationoracle_ideimpl_editor_RecentFiles_VIEW_TYPE/>
+      <ExplorerWindow/>
+      <BOOKMARKS_VIEW_TYPE/>
+      <STATUS/>
+      <RunManagerWindow/>
+      <LogWindow/>
+      <Debugger/>
+      <DatabaseNavigatorWindow/>
+      <OUTLINE_VIEW_TYPE/>
+      <SEARCH_VIEW_TYPE/>
+      <RECENT_OBJECTS_VIEW_TYPE/>
+      <DbaNavigatorWindow/>
+      <SQLHISTORY_VIEW_TYPE/>
+      <DBMS_OUTPUT_DOCKABLE_VIEW_TYPE/>
+      <OWA_OUTPUT_DOCKABLE_VIEW_TYPE/>
+      <ReportNavigatorWindow/>
+      <SNIPPET_VIEW_TYPE/>
+      <SPATIAL_VIEW_TYPE/>
+      <UtNavigatorWindow/>
+      <PALETTEFACTORY/>
+      <UnifiedThumbnailDockable/>
+      <InspectorWindow/>
+      <DataMinerNavigator/>
+      <TASKS_VIEW_TYPE/>
+      <ComponentPalette/>
+      <VHV-VersionProperties/>
+      <VersioningNavigatorWindow/>
+      <DBCART_VIEW_TYPE/>
+      <LISTENER_VIEW_TYPE/>
+      <FileNavigatorWindow/>
+      <TASK_PROGRESS_VIEW_TYPE/>
+      <SchemaBrowser/>
+      <CM_VIEW_TYPE/>
+      <oracle-jdeveloper-subversion-PendingChangesWindow/>
+      <MigrationProjectNavigatorWindow/>
+   </knownDockableFactories>
+   <dockingPositions>
+      <WEST dockSize="332" floatSize="180">
+         <box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="DatabaseNavigatorWindow.DatabaseNavigatorName" dockWidth="400" floatOrientation="-1"/>
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="ReportNavigatorWindow.Reports" dockWidth="400" floatOrientation="-1"/>
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="UtNavigatorWindow.Unit Test" dockWidth="400" floatOrientation="-1"/>
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="FileNavigatorWindow.Files" dockWidth="400" floatOrientation="-1"/>
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="DataMinerNavigator.Connection" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="RECENT_OBJECTS_VIEW_TYPE.oracle-dbtools-raptor-recent-objects-Window" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="SEARCH_VIEW_TYPE.oracle-dbtools-raptor-nav-search-Window" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="OUTLINE_VIEW_TYPE.oracle-dbtools-raptor-plsql-structure-Window" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="DbaNavigatorWindow.DbaNavigatorName" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="ExplorerWindow.SingletonExplorerWindow" dockWidth="400" floatOrientation="-1"/>
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="Debugger.StackWindow" dockWidth="400" floatOrientation="-1"/>
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="UnifiedThumbnailDockable.UnifiedThumbnailDockable" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="RunManagerWindow" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="TASKS_VIEW_TYPE.RunManager" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="VersioningNavigatorWindow.VersioningNavigator" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+         </box>
+      </WEST>
+      <EAST dockSize="332" floatSize="180">
+         <box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="PALETTEFACTORY.PALETTE" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="ComponentPalette" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="InspectorWindow.SingletonInspectorWindow" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="SNIPPET_VIEW_TYPE.SNIPPET_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox width="400" height="300">
+                  <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="CM_VIEW_TYPE.CM_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+               </leafBox>
+            </box>
+         </box>
+      </EAST>
+      <NORTH dockSize="156" floatSize="180"/>
+      <SOUTH dockSize="250" floatSize="180">
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="BOOKMARKS_VIEW_TYPE.BOOKMARK_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="LogWindow.日志" dockWidth="400" floatOrientation="-1"/>
+               <dockable dockHeight="300" floatWidth="162" floatHeight="190" ID="Debugger.BreakpointsWindow" dockWidth="400" floatOrientation="-1"/>
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="Debugger.SmartWindow" dockWidth="400" floatOrientation="-1"/>
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="Debugger.LocalsWindow" dockWidth="400" floatOrientation="-1"/>
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="Debugger.WatchWindow" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="SQLHISTORY_VIEW_TYPE.SQLHISTORY_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="DBMS_OUTPUT_DOCKABLE_VIEW_TYPE.DBMS_OUTPUT_DOCKABLE_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="OWA_OUTPUT_DOCKABLE_VIEW_TYPE.OWA_OUTPUT_DOCKABLE_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="DBCART_VIEW_TYPE.DBCART_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="TASK_PROGRESS_VIEW_TYPE.TASK_PROGRESS_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="STATUS.STATUS" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="SPATIAL_VIEW_TYPE.SPATIAL_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox width="400" height="300">
+               <dockable dockHeight="300" floatWidth="400" floatHeight="300" ID="LISTENER_VIEW_TYPE.LISTENER_VIEW_ID" dockWidth="400" floatOrientation="-1"/>
+            </leafBox>
+         </box>
+      </SOUTH>
+   </dockingPositions>
+   <editorPositions>
+      <box>
+         <leafBox selectedPage="5" width="524" height="300">
+            <state accelerator="-1" workspace="sqldev.temp ; ; -1 %2F%E6%95%B0%E6%8D%AE%E5%BA%93.jws ; ;" document="startpage ; ; -1 %2FF%3A%2Fproduct%2F12.1.0%2Fdbhome_1%2Fsqldeveloper%2Fsqldeveloper%2Fdoc%2Fwelcome%2Fzh_CN%2Fwelcome.html.help oracle.webcenter.common%3D0%26oracle.sca.modeler%3D0 ;">
+               <paneState currentEditor="oracle.jdevimpl.help.HelpSystemAddin">
+                  <editorState yScrollMax="868" yScrollPos="0" addin="oracle.jdevimpl.help.HelpSystemAddin" yScrollMin="0" yScrollExtent="868" xScrollMin="0" xScrollMax="1582" xScrollPos="0" xScrollExtent="1582"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox width="1000" pane="0" height="1000"/>
+                  </box>
+               </pane>
+            </state>
+            <state accelerator="-1" workspace="sqldev.temp ; ; -1 %2F%E6%95%B0%E6%8D%AE%E5%BA%93.jws ; ;" document="file ; ; -1 %2FC%3A%2FUsers%2FAdministrator%2FAppData%2FRoaming%2FSQL+Developer%2F%E5%90%88%E5%B9%B6%E6%B5%8B%E8%AF%952.sql ; ;">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMax="0" yScrollPos="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" yScrollMin="0" yScrollExtent="0" xScrollMin="0" xScrollMax="0" xScrollPos="0" xScrollExtent="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox width="1000" pane="0" height="1000"/>
+                  </box>
+               </pane>
+            </state>
+            <state accelerator="-1" workspace="sqldev.temp ; ; -1 %2F%E6%95%B0%E6%8D%AE%E5%BA%93.jws ; ;" document="file ; ; -1 %2FC%3A%2FUsers%2FAdministrator%2FAppData%2FRoaming%2FSQL+Developer%2F6.24test.sql ; ;">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMax="0" yScrollPos="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" yScrollMin="0" yScrollExtent="0" xScrollMin="0" xScrollMax="0" xScrollPos="0" xScrollExtent="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox width="1000" pane="0" height="1000"/>
+                  </box>
+               </pane>
+            </state>
+            <state accelerator="-1" workspace="sqldev.temp ; ; -1 %2F%E6%95%B0%E6%8D%AE%E5%BA%93.jws ; ;" document="file ; ; -1 %2FC%3A%2FUsers%2FAdministrator%2FAppData%2FRoaming%2FSQL+Developer%2F6.25%E5%BA%97%E9%93%BA%E8%A1%A8%E7%94%9F%E6%88%90%E7%BB%9F%E8%AE%A1%E8%A1%A8.sql ; ;">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMax="0" yScrollPos="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" yScrollMin="0" yScrollExtent="0" xScrollMin="0" xScrollMax="0" xScrollPos="0" xScrollExtent="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox width="1000" pane="0" height="1000"/>
+                  </box>
+               </pane>
+            </state>
+            <state accelerator="-1" workspace="sqldev.temp ; ; -1 %2F%E6%95%B0%E6%8D%AE%E5%BA%93.jws ; ;" document="file ; ; -1 %2FC%3A%2FUsers%2FAdministrator%2FAppData%2FRoaming%2FSQL+Developer%2F6.25%E6%9C%80%E7%BB%88.sql ; ;">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMax="0" yScrollPos="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" yScrollMin="0" yScrollExtent="0" xScrollMin="0" xScrollMax="0" xScrollPos="0" xScrollExtent="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox width="1000" pane="0" height="1000"/>
+                  </box>
+               </pane>
+            </state>
+            <state accelerator="-1" workspace="sqldev.temp ; ; -1 %2F%E6%95%B0%E6%8D%AE%E5%BA%93.jws ; ;" document="file ; ; -1 %2FC%3A%2FUsers%2FAdministrator%2FAppData%2FRoaming%2FSQL+Developer%2F7.11%E8%B4%AD%E7%89%A9%E7%AF%AE%E5%88%86%E6%9E%90.sql ; ;">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMax="0" yScrollPos="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" yScrollMin="0" yScrollExtent="0" xScrollMin="0" xScrollMax="0" xScrollPos="0" xScrollExtent="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox width="1000" pane="0" height="1000"/>
+                  </box>
+               </pane>
+            </state>
+         </leafBox>
+      </box>
+   </editorPositions>
+   <visibilityLayouts>
+      <Editing displayName="Editing">
+         <SQLHISTORY_VIEW_TYPE.SQLHISTORY_VIEW_ID/>
+         <Debugger.StackWindow/>
+         <Debugger.LocalsWindow minimized="true"/>
+         <SPATIAL_VIEW_TYPE.SPATIAL_VIEW_ID/>
+         <STATUS.STATUS/>
+         <DBCART_VIEW_TYPE.DBCART_VIEW_ID/>
+         <LogWindow.日志 visible="true" raised="true" minimized="true"/>
+         <_escaped _escapedValue="UtNavigatorWindow.Unit Test"/>
+         <OWA_OUTPUT_DOCKABLE_VIEW_TYPE.OWA_OUTPUT_DOCKABLE_VIEW_ID/>
+         <DatabaseNavigatorWindow.DatabaseNavigatorName visible="true" raised="true"/>
+         <Debugger.WatchWindow minimized="true"/>
+         <Debugger.SmartWindow minimized="true"/>
+         <FileNavigatorWindow.Files/>
+         <RECENT_OBJECTS_VIEW_TYPE.oracle-dbtools-raptor-recent-objects-Window/>
+         <DbaNavigatorWindow.DbaNavigatorName/>
+         <LISTENER_VIEW_TYPE.LISTENER_VIEW_ID/>
+         <ReportNavigatorWindow.Reports visible="true"/>
+         <Debugger.BreakpointsWindow minimized="true"/>
+         <InspectorWindow.SingletonInspectorWindow/>
+         <SNIPPET_VIEW_TYPE.SNIPPET_VIEW_ID/>
+         <OUTLINE_VIEW_TYPE.oracle-dbtools-raptor-plsql-structure-Window/>
+         <RunManagerWindow/>
+         <BOOKMARKS_VIEW_TYPE.BOOKMARK_VIEW_ID/>
+         <UnifiedThumbnailDockable.UnifiedThumbnailDockable/>
+         <ExplorerWindow.SingletonExplorerWindow/>
+         <SEARCH_VIEW_TYPE.oracle-dbtools-raptor-nav-search-Window/>
+         <TASK_PROGRESS_VIEW_TYPE.TASK_PROGRESS_VIEW_ID/>
+         <PALETTEFACTORY.PALETTE/>
+         <CM_VIEW_TYPE.CM_VIEW_ID/>
+         <DataMinerNavigator.Connection/>
+         <VersioningNavigatorWindow.VersioningNavigator/>
+         <TASKS_VIEW_TYPE.RunManager/>
+         <ComponentPalette/>
+         <DBMS_OUTPUT_DOCKABLE_VIEW_TYPE.DBMS_OUTPUT_DOCKABLE_VIEW_ID/>
+      </Editing>
+   </visibilityLayouts>
+</LayoutInfo>

@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select length(BRANDID) from r_fre where rownum=7;]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-7-12 下午10:28]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.037]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,23 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[SELECT *
+   FROM (SELECT *
+  FROM JAN_TRAJECTORY l,ATTRACTIONS a
+ WHERE a.name='黄鹤楼'
+   AND sdo_within_distance (
+         l.END_CORDINATE, a.GEOMETRY,'distance=2000 unit=metre') 
+       = 'TRUE') l,ATTRACTIONS a
+  WHERE a.name='湖北省博物馆'
+   AND sdo_within_distance (
+         l.START_CORDINATE, a.GEOMETRY,'distance=1000 unit=metre') 
+       = 'TRUE'
+       and T_START_TIME > '1388538000' and T_end_time < '1388648200'
+ORDER BY "T_START_TIME";]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-30 下午8:25]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[3]]></executed>
+		<execTime><![CDATA[1.146]]></execTime>
+	</historyItem>
+</history>

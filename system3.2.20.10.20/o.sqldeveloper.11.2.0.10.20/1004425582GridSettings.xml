@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">OBJECTID</Item>
+      <Item class="java.lang.String">BUILDING</Item>
+      <Item class="java.lang.String">TOURISM</Item>
+      <Item class="java.lang.String">OSMID</Item>
+      <Item class="java.lang.String">NAME</Item>
+      <Item class="java.lang.String">SHAPE_LENG</Item>
+      <Item class="java.lang.String">SHAPE_AREA</Item>
+      <Item class="java.lang.String">GEOMETRY</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>0</Item>
+      <Item>0</Item>
+      <Item>75</Item>
+      <Item>69</Item>
+      <Item>75</Item>
+      <Item>75</Item>
+      <Item>68</Item>
+      <Item>113</Item>
+      <Item>156</Item>
+      <Item>236</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23conn_orclSELECT * FROM "C##NCIUSER"."ATTRACTIONS"</uniqueName>
+</TableSettings>

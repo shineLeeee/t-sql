@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select count(distinct(retailer_id_cust)) from fre_nalysis;]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-7-11 下午10:25]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.15]]></execTime>
+	</historyItem>
+</history>

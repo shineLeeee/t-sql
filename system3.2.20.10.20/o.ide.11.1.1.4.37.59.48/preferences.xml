@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<client-settings class="java.util.HashMap" xmlns="http://xmlns.oracle.com/jdeveloper/110000/client-preferences">
+   <Item>
+      <Key>editors-options</Key>
+      <Value class="oracle.ide.editor.EditorsOptions">
+         <editorsData/>
+         <lruFiles>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../../../../Desktop/合并测试.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23orcl.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../../../../Desktop/tobacco.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23test.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../合并测试2.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23test.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../../../../Desktop/GMMITÂÛÎÄÏà¹Ø/µ¼³ö"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23test.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../6.24test.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../6.25店铺表生成统计表.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23test.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../6.25最终.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.ideimpl.editor.EditorManagerImpl$DeclarativeEditorAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../../../../Desktop/owmctab.plb"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23test.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../7.11购物篮分析.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23test.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/数据库.jws"/>
+            </Item>
+         </lruFiles>
+         <recentFilesShowAll>false</recentFilesShowAll>
+      </Value>
+   </Item>
+</client-settings>

@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select distinct "name",count(*)  from "country"  group by "name" having count(*) >1 order by count(*) desc;]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-4-22 上午12:16]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.35]]></execTime>
+	</historyItem>
+</history>

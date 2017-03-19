@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[conn ]]></sql>
+		<connection><![CDATA[onttest]]></connection>
+		<timestamp><![CDATA[15-10-30 下午1:17]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[9.577]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/lishuai/AppData/Roaming/SQL Developer/1.17分类实验.sql]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-19 下午5:03]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[61]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

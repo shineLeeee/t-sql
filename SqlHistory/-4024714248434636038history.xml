@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[insert into whole_month_inorder(carid,longitude,latitude,status,speed,cartime) 
+select "T_TargetID","T_Longitude","T_Latitude","T_Status","T_Speed","T_UTCTime" 
+from "whole_month" where rownum<100 order by "T_TargetID","T_UTCTime" asc;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-23 下午1:48]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.053]]></execTime>
+	</historyItem>
+</history>

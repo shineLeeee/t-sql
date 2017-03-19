@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select to_char(wm_concat(distinct(product_id)))，ymd from FRE_ANALYSIS group by admv_dvsn,ymd]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-7-12 上午10:52]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.486]]></execTime>
+	</historyItem>
+</history>

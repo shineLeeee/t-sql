@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table fre_nalysis as (
+select PRODUCT_ID,RETAILER_ID_CUST,YMD from EXPORDERLINE
+);]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-7-11 下午10:24]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[7.153]]></execTime>
+	</historyItem>
+</history>

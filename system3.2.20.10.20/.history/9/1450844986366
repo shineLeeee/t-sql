@@ -1,0 +1,1 @@
+INSERT INTO "whole_month_order" SELECT * FROM "whole_month" ORDER BY ;

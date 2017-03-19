@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table clusterpre as(select SLHJ a1,YSJEHJ a2 from SCOTT.t_order);]]></sql>
+		<connection><![CDATA[orcl]]></connection>
+		<timestamp><![CDATA[16-6-24 下午10:40]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[3.318]]></execTime>
+	</historyItem>
+</history>

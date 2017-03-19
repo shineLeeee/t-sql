@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select count(*) FROM "whole_month" WHERE ROWNUM<100000 and "T_TargetID"='MMC8000GPSANDASYN051113-23885-00000000' ;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-23 下午1:33]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.008]]></execTime>
+	</historyItem>
+</history>

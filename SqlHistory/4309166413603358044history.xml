@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select "areacode" from "town" where "name"='新华街道';]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-4-22 下午2:19]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.003]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select count(*),startarea,endarea,sttime,edtime from 行为模式挖掘 where startarea!=endarea and startarea!='武汉大学' and endarea!='武汉大学'and startarea!='武汉长江大桥' and endarea!='武汉长江大桥'
+group by startarea,sttime,endarea,edtime
+order by count(*) desc;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-19 上午12:07]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[4]]></executed>
+		<execTime><![CDATA[1.086]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,19 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create public synonym WM_CONCAT_IMPL for wmsys.WM_CONCAT_IMPL
+/
+create public synonym wm_concat for wmsys.wm_concat
+/
+
+grant execute on WM_CONCAT_IMPL to public
+/
+grant execute on wm_concat to public
+/]]></sql>
+		<connection><![CDATA[wmsys]]></connection>
+		<timestamp><![CDATA[16-7-12 上午10:43]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.56]]></execTime>
+	</historyItem>
+</history>

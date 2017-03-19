@@ -1,0 +1,12 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select *
+　　from dba_data_files;]]></sql>
+		<connection><![CDATA[管理员登录]]></connection>
+		<timestamp><![CDATA[15-12-20 下午10:59]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.15]]></execTime>
+	</historyItem>
+</history>

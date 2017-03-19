@@ -1,0 +1,2 @@
+select tablespace_name, sum(bytes) / 1024 / 1024 as MB
+¡¡¡¡from dba_tablespaces

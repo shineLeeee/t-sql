@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table T_TJ as (select distinct YXB,sum(xqslhj) xqslhj,sum(SLHJ) slhj,sum(ysjehj) ysjehj,count(*) counts from T_ORDER group by YXB);]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-6-24 下午11:35]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[3.086]]></execTime>
+	</historyItem>
+</history>

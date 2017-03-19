@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[drop view vcluster;]]></sql>
+		<connection><![CDATA[orcl]]></connection>
+		<timestamp><![CDATA[16-6-24 下午10:32]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.063]]></execTime>
+	</historyItem>
+</history>

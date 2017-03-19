@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/lishuai/AppData/Roaming/SQL Developer/为表空间新增数据文件.sql]]></sql>
+		<connection><![CDATA[管理员登录]]></connection>
+		<timestamp><![CDATA[15-12-23 下午12:28]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[4]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

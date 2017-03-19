@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/Administrator/Desktop/合并测试.sql]]></sql>
+		<connection><![CDATA[orcl]]></connection>
+		<timestamp><![CDATA[16-4-22 下午12:04]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[3]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

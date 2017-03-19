@@ -1,0 +1,38 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">T_TARGETID</Item>
+      <Item class="java.lang.String">T_UTCTIME</Item>
+      <Item class="java.lang.String">T_LONGTITUDE</Item>
+      <Item class="java.lang.String">T_LATITUDE</Item>
+      <Item class="java.lang.String">T_SPEED</Item>
+      <Item class="java.lang.String">T_HEADING</Item>
+      <Item class="java.lang.String">T_ALARM</Item>
+      <Item class="java.lang.String">T_STATUS</Item>
+      <Item class="java.lang.String">T_INFO</Item>
+      <Item class="java.lang.String">T_COST</Item>
+      <Item class="java.lang.String">T_ASYNFLAG</Item>
+      <Item class="java.lang.String">T_RECORDTIME</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>0</Item>
+      <Item>0</Item>
+      <Item>123</Item>
+      <Item>138</Item>
+      <Item>99</Item>
+      <Item>87</Item>
+      <Item>69</Item>
+      <Item>81</Item>
+      <Item>69</Item>
+      <Item>75</Item>
+      <Item>63</Item>
+      <Item>63</Item>
+      <Item>87</Item>
+      <Item>99</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23conn_orclSELECT * FROM "C##NCIUSER"."TAXI_ONECAR"</uniqueName>
+</TableSettings>

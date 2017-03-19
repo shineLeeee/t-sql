@@ -1,0 +1,46 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">PRODUCT_ID</Item>
+      <Item class="java.lang.String">RETAIL_PRICE</Item>
+      <Item class="java.lang.String">UNIT_ID_SELL_UNIT</Item>
+      <Item class="java.lang.String">ADMV_DVSN</Item>
+      <Item class="java.lang.String">SUPPLY_QTY</Item>
+      <Item class="java.lang.String">SUPPLY_AMOUNT</Item>
+      <Item class="java.lang.String">SUPPLY_AVG_PRICE</Item>
+      <Item class="java.lang.String">CUST_CODE</Item>
+      <Item class="java.lang.String">ID</Item>
+      <Item class="java.lang.String">RETAILER_ID_CUST</Item>
+      <Item class="java.lang.String">YMD</Item>
+      <Item class="java.lang.String">PUB_ORG_ID_DEPT</Item>
+      <Item class="java.lang.String">ORDER_AMOUNT</Item>
+      <Item class="java.lang.String">PROVINCE_NAME</Item>
+      <Item class="java.lang.String">CITY_NAME</Item>
+      <Item class="java.lang.String">CITY_CODE</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>0</Item>
+      <Item>0</Item>
+      <Item>89</Item>
+      <Item>99</Item>
+      <Item>129</Item>
+      <Item>81</Item>
+      <Item>87</Item>
+      <Item>105</Item>
+      <Item>123</Item>
+      <Item>89</Item>
+      <Item>89</Item>
+      <Item>123</Item>
+      <Item>61</Item>
+      <Item>117</Item>
+      <Item>99</Item>
+      <Item>105</Item>
+      <Item>81</Item>
+      <Item>201</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23testSELECT * FROM "SCOTT"."EXPORDERLINE"</uniqueName>
+</TableSettings>

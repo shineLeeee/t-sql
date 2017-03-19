@@ -1,0 +1,26 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">名称</Item>
+      <Item class="java.lang.String">值</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>180</Item>
+      <Item>293</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23conn_orclselect o.created,o.last_ddl_time,t.*,c.comments from 
+							(select OWNER,TABLE_NAME,TABLESPACE_NAME,CLUSTER_NAME,IOT_NAME,STATUS,PCT_FREE,PCT_USED,INI_TRANS,
+MAX_TRANS,INITIAL_EXTENT,NEXT_EXTENT,MIN_EXTENTS,MAX_EXTENTS,PCT_INCREASE,FREELISTS,FREELIST_GROUPS,LOGGING,BACKED_UP,NUM_ROWS,
+BLOCKS,EMPTY_BLOCKS,AVG_SPACE,CHAIN_CNT,AVG_ROW_LEN,AVG_SPACE_FREELIST_BLOCKS,NUM_FREELIST_BLOCKS,ltrim(DEGREE) degree,ltrim(INSTANCES) instances,
+ltrim(CACHE) cache,TABLE_LOCK,SAMPLE_SIZE,LAST_ANALYZED,PARTITIONED,IOT_TYPE,OBJECT_ID_TYPE,TABLE_TYPE_OWNER,TABLE_TYPE,TEMPORARY,
+SECONDARY,NESTED,BUFFER_POOL,ROW_MOVEMENT,GLOBAL_STATS,USER_STATS,DURATION,SKIP_CORRUPT,MONITORING,CLUSTER_OWNER,DEPENDENCIES,COMPRESSION,COMPRESS_FOR,
+DROPPED from all_all_tables a where owner = :OBJECT_OWNER and table_name = :OBJECT_NAME ) t,
+							(select owner,object_name,created,last_ddl_time from sys.all_objects where object_name = :OBJECT_NAME and owner = :OBJECT_OWNER and object_type='TABLE') o,
+							(select owner,table_name,comments from all_tab_comments where owner = :OBJECT_OWNER and table_name = :OBJECT_NAME) c
+						where t.owner = o.owner and t.table_name = o.object_name
+						and  t.owner = c.owner(+) and t.table_name = c.table_name(+)</uniqueName>
+</TableSettings>

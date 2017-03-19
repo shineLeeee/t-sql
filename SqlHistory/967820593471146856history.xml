@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select count(*) from (select count(distinct(product_id)) nm from FRE_ANALYSIS group by admv_dvsn,ymd order by nm asc) where NM>5;]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-7-11 下午10:48]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.207]]></execTime>
+	</historyItem>
+</history>

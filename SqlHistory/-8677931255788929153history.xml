@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select startarea,endarea,TO_CHAR(TO_DATE(st, 'YYYY-MM-DD HH24:MI:SS'), 'HH24:MI'),TO_CHAR(TO_DATE(ed, 'YYYY-MM-DD HH24:MI:SS'), 'HH24:MI') from 行为模式挖掘;]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-18 下午9:07]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.013]]></execTime>
+	</historyItem>
+</history>

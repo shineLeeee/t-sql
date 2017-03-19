@@ -1,0 +1,22 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[SELECT *
+   FROM (SELECT *
+  FROM JAN_TRAJECTORY l,ATTRACTIONS a
+ WHERE a.name='湖北省博物馆'
+   AND sdo_within_distance (
+         l.END_CORDINATE, a.GEOMETRY,'distance=170 unit=metre') 
+       = 'TRUE') l,ATTRACTIONS a
+  WHERE a.name='东湖景区'
+   AND sdo_within_distance (
+         l.START_CORDINATE, a.GEOMETRY,'distance=1500 unit=metre') 
+       = 'TRUE'
+ORDER BY "T_START_TIME"]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-17 下午9:01]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[1.463]]></execTime>
+	</historyItem>
+</history>

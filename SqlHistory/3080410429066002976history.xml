@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select "c" from "clustered";]]></sql>
+		<connection><![CDATA[realdata]]></connection>
+		<timestamp><![CDATA[16-6-25 下午3:10]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.008]]></execTime>
+	</historyItem>
+</history>

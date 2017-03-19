@@ -1,0 +1,12 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[insert into "行为模式挖掘"(startarea,sttime,stunixtime,endarea,edtime,edunixtime) 
+values('黄鹤楼','a','138865262','户部巷','p','139885263');]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[16-1-6 下午12:26]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.016]]></execTime>
+	</historyItem>
+</history>

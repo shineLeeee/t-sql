@@ -1,0 +1,19 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[SELECT
+  COUNT(*)
+FROM
+  JAN_TRAJECTORY l,
+  ATTRACTIONS a
+WHERE
+  a.NAME='万林艺术博物馆'
+AND sdo_within_distance ( l.END_CORDINATE, a.GEOMETRY,'distance=500 unit=metre'
+  ) = 'TRUE';]]></sql>
+		<connection><![CDATA[conn_orcl]]></connection>
+		<timestamp><![CDATA[15-12-30 下午9:43]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[1.663]]></execTime>
+	</historyItem>
+</history>

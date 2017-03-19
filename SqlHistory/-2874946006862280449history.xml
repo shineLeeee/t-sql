@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table LS_CLUSTER as (select distinct COMMERCE_ORG_ID_COM, sum(ORDER_COUNT_SUM) BILLCOUNTS, sum(REC_AMT_SUM) RECSUM,sum(AMT_TAX_SUM) TAXSUM from v_s_sd_co group by COMMERCE_ORG_ID_COM);]]></sql>
+		<connection><![CDATA[realdata]]></connection>
+		<timestamp><![CDATA[16-6-25 上午11:56]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[6.353]]></execTime>
+	</historyItem>
+</history>

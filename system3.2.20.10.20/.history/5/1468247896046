@@ -1,0 +1,10 @@
+create table fre_nalysis as (
+select PRODUCT_ID,RETAILER_ID_CUST,YMD from EXPORDERLINE
+);
+
+
+select count(*) from fre_nalysis;
+/* 747个香烟品牌  33734个零售户 211天的 99999条数据 */
+
+
+

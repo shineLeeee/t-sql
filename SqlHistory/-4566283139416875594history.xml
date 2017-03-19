@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[update ls_cluster set clusterresult='AA' where rownum=1;]]></sql>
+		<connection><![CDATA[realdata]]></connection>
+		<timestamp><![CDATA[16-6-25 下午2:41]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.004]]></execTime>
+	</historyItem>
+</history>

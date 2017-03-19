@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[drop table T_TJ;]]></sql>
+		<connection><![CDATA[test]]></connection>
+		<timestamp><![CDATA[16-6-24 下午11:25]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.475]]></execTime>
+	</historyItem>
+</history>
